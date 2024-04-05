@@ -5,7 +5,8 @@
 ✔ This profile also contains my website, which serves as my business card, repository, and blog. 🌐<br>
 ✔ This is my professional GitHub, but I also have a personal one equally interesting. 🕓<br>
 ✔ This repository will contain the most important projects from my repository. 💻<br>
-✔ I also like hardware. ⚙️<br>✔ I also have knowledge in linux. 🐧
+✔ I also like hardware. ⚙️<br>
+✔ I also have knowledge in linux. 🐧
 
 
 ## 🌐 Socials:
@@ -74,8 +75,6 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ecojrsg&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ecojrsg&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ecojrsg&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
