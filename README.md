@@ -59,3 +59,9 @@ Soy **partner oficial de Odoo, en la categoría Ready**. Odoo forma parte de mi 
 ## Contacto
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jonathan.rsg.serna)
+
+## Mis sitios
+
+- **Página web:** [ecojrsg.dev](https://ecojrsg.dev)
+- **Blog:** [blog.ecojrsg.dev](https://blog.ecojrsg.dev)
+- **Empresa · Katze Kingdom:** [katzekingdom.com](https://katzekingdom.com)
