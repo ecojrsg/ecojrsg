@@ -14,24 +14,6 @@ Combino desarrollo de software, automatización e infraestructura en la nube. Mi
 
 ## Desarrollo
 
-| Área | Tecnologías principales |
-| --- | --- |
-| Lenguajes | **Python**, **JavaScript** y **TypeScript** |
-| Backend y APIs | **FastAPI**, **Express** y Node.js |
-| Frontend | **Astro** con **React**, HTML y CSS |
-| Datos | PostgreSQL |
-| Aplicaciones empresariales | **Odoo** |
-
-También manejo Django, NestJS, Next.js, Firebase, Tailwind CSS, GitHub Pages y Markdown. Me interesan el hardware y la relación entre el software y la infraestructura que lo sostiene.
-
-## Odoo · Ready Partner
-
-Soy **partner oficial de Odoo, en la categoría Ready**. Odoo forma parte de mi enfoque de desarrollo e integración de aplicaciones empresariales, junto con Python, APIs y servicios en la nube.
-
-[![Odoo Ready Partner](https://img.shields.io/badge/Odoo-Ready%20Partner-714B67?style=for-the-badge&logo=odoo&logoColor=white)](https://www.odoo.com/)
-
-## Tecnologías destacadas
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -44,6 +26,35 @@ Soy **partner oficial de Odoo, en la categoría Ready**. Odoo forma parte de mi 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+| Área | Tecnologías principales |
+| --- | --- |
+| Lenguajes | **Python**, **JavaScript** y **TypeScript** |
+| Backend y APIs | **FastAPI**, **Express** y Node.js |
+| Frontend | **Astro** con **React**, HTML y CSS |
+| Datos | PostgreSQL |
+| Aplicaciones empresariales | **Odoo** |
+
+También manejo Django, NestJS, Next.js, Firebase, Tailwind CSS, GitHub Pages y Markdown. Me interesan el hardware y la relación entre el software y la infraestructura que lo sostiene.
+
+---
+
+<h2 align="center">Partner oficial de Odoo</h2>
+
+<p align="center">
+  <a href="https://www.odoo.com/">
+    <img src="assets/odoo-ready-partner.png" alt="Logo oficial de Odoo Ready Partner" width="360">
+  </a>
+</p>
+
+<p align="center">
+  <strong>READY PARTNER</strong><br>
+  Desarrollo e integración de aplicaciones empresariales con Odoo.
+</p>
+
+Soy **partner oficial de Odoo, en la categoría Ready**. Odoo forma parte de mi enfoque de desarrollo e integración de aplicaciones empresariales, junto con Python, APIs y servicios en la nube.
+
+---
 
 ## Contacto
 
